@@ -1,7 +1,7 @@
-## EX.7 Implement DES Encryption and Decryption
 
+## EX-4-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 ## AIM:
-Implementation of Pseudorandom Number Generation Using Standard library.
+To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
 
 ## ALGORITHM:
 1.AES is based on a design principle known as a substitution–permutation.
